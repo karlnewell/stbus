@@ -1,0 +1,3 @@
+[submodule "custom-logstash/logstash-plugin-udp-native-sensors"]
+	path = custom-logstash/logstash-plugin-udp-native-sensors
+	url = https://github.com/Juniper/logstash-plugin-udp-native-sensors.git
